@@ -37,7 +37,7 @@ https://www.kodeco.com/1228891-getting-started-with-rxswift-and-rxcocoa
 ## 使用ライブラリ
 *RxSwift*
 
-非同期イベントを受け取るための枠組み」を提供してくれるライブラリ
+「非同期イベントを受け取るための枠組み」を提供してくれるライブラリ
 
 *RxCocoa
 
